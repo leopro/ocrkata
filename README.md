@@ -1,5 +1,6 @@
-ocrkata
+ocr kata
 =======
 
-code for a kata at the PUGRoma http://roma.grusp.org
+unit test for a kata at PUGRoma http://roma.grusp.org
+
 http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR
